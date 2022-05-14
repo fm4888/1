@@ -1,0 +1,3 @@
+#
+#Fri Aug 20 12:47:14 GMT+08:00 2021
+\u70b9\u64ad=\njipin,http\://www.jpysvip.net/api.php/provide/vod/at/xml/,\u4e0d\u89e3\u6790\nkuaiboyun,http\://www.kuaibozy.com/api.php/provide/vod/at/xml,\u4e0d\u89e3\u6790\n39,http\://www.39kan.com/api.php/provide/vod/at/xml,\u4e0d\u89e3\u6790\nanyi,http\://dy.51isu.com:11801/api.php/provide/vod/at/xml,\u4e0d\u89e3\u6790
